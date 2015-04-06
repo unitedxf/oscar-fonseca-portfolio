@@ -1,0 +1,142 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1705" measuredH="1501" mockupW="1671" mockupH="1398">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="34" y="103" w="1372" h="1398" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <size>16</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="390" y="316" w="660" h="145" measuredW="660" measuredH="145" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="27" w="605" h="-1" measuredW="605" measuredH="75" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <size>72</size>
+            <text>OSCAR%20FONSECA</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="129" h="-1" measuredW="129" measuredH="21" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <size>18</size>
+            <text>HI%20MY%20NAME%20IS</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="0" y="102" w="660" h="-1" measuredW="657" measuredH="43" zOrder="2" locked="false" isInGroup="6">
+          <controlProperties>
+            <italic>false</italic>
+            <size>40</size>
+            <text>YOUR%20FRIENDLY%20WEB%20DEVELOPER</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="637" y="530" w="152" h="55" measuredW="121" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>View%20Projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::HRule" x="164" y="655" w="1158" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="1123" y="148" w="-1" h="-1" measuredW="199" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <color>13421772</color>
+        <size>18</size>
+        <text>Home%2C%20About%20Me%2C%20Blog</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="371" y="757" w="-1" h="-1" measuredW="722" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>%22The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="164" y="891" w="1158" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="618" y="1326" w="-1" h="-1" measuredW="186" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Follow%20me%20on</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="618" y="1390" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>FacebookIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Icon" x="688" y="1390" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="765" y="1390" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TwitterIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="164" y="194" w="1158" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::HRule" x="164" y="1264" w="1158" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="185" y="961" w="-1" h="-1" measuredW="142" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Things%20I%20love</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Paragraph" x="185" y="1020" w="305" h="219" measuredW="275" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Phasellus%20tempor%20ante%20sed%20ultricies%20porttitor.%20Donec%20scelerisque%20blandit%20libero%20vel%20sagittis</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="580" y="961" w="-1" h="-1" measuredW="172" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>My%20background</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Paragraph" x="580" y="1020" w="305" h="219" measuredW="275" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Phasellus%20tempor%20ante%20sed%20ultricies%20porttitor.%20Donec%20scelerisque%20blandit%20libero%20vel%20sagittis</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="988" y="961" w="-1" h="-1" measuredW="132" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>My%20Hobbies</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Paragraph" x="988" y="1020" w="305" h="219" measuredW="275" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Phasellus%20tempor%20ante%20sed%20ultricies%20porttitor.%20Donec%20scelerisque%20blandit%20libero%20vel%20sagittis</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Arrow" x="1464" y="133" w="241" h="161" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <direction>top</direction>
+        <rightArrow>false</rightArrow>
+        <text>Header%20-Nav%20%7B</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

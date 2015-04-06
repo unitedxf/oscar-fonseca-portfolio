@@ -1,0 +1,217 @@
+/* Paul Irish Box-Sizing: Border-Box reset - apply a natural box layout model to all elements, but allowing components to change http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+
+	background-image: url(../images/subtle_dots.png);
+	background-repeat: repeat;
+	
+}
+
+h1{
+	color:#505a61;
+	font-family: 'Oswald', sans-serif;
+	padding:5px 0;
+	font-size: 1.2em;
+	font-weight: 100;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 1.000em;
+	padding: 15px 20px;
+	line-height: 1.2em;
+	color: #65727A;
+}
+hr{
+	border: 1px solid #e0e2e5;
+}
+.container{
+	width: 98%;
+	margin: 15px auto;
+	padding: 20px;
+}
+.center-container{
+	text-align: center;
+	
+}
+.mid-container{
+	width: 65%;
+	margin: 0 auto;
+
+}
+.menu{
+	height: 40px;
+}
+.links  li {
+ 	float:right;
+}
+.links li a {
+	display: block;
+	padding: 0px 15px;
+	text-decoration: none;
+	color: #65727A;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 0.875em;
+	-webkit-font-smoothing:antialiased;
+	text-align: center;
+}
+
+.links li a:hover {
+	color: #697E86;
+	
+}
+.menu .links > li.active a{
+    color: #4c5058;
+    font-weight: bold;
+}
+.main-title{
+	padding: 150px 0;
+	background-image: url(../images/p5.png);
+	background-repeat: repeat;
+}   
+.masthead-intro, .masthead-heading, .masthead-text, .content-footer{
+	text-align: center;
+	color:#65727A;
+	font-family: 'Raleway', sans-serif;
+	padding:5px 0;
+	-webkit-font-smoothing:antialiased;
+}  
+.masthead-intro{
+	font-size: 1.4em;
+	font-weight: 400;
+}
+.masthead-heading{
+	font-size: 6.5em;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+}
+.masthead-text{
+    font-size: 2.300em;
+	font-weight: 300;
+
+}
+ .big-button{
+ 	text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 14px 36px;
+    line-height: 1.33;
+    background-color: #555f66;
+    font-size: 1.000em;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	margin: 25px 0;
+	letter-spacing: 0.8px;
+	transition: all 0.5s ease;
+}
+.big-button:hover{
+	background-color: #7e8991;
+	transition: all 0.9s ease;
+
+}
+.quote {
+	padding: 50px 0;
+}
+.my-quote{
+	color:#65727A;
+	font-family: 'Raleway', sans-serif;
+	padding:5px 0;
+	font-size: 1.9em;
+	font-weight: 300;
+}
+.introduction-section, .location-section, .my-background{
+	width: 33.3333%;
+	float: left;
+	padding: 20px 0 80px 20px;
+}
+
+footer{
+	clear: both;
+	background-color: #505a61;
+
+}
+
+.content-footer{
+	background-image: url(../images/dark_fish_skin1.png);
+	background-repeat: repeat;
+	padding: 25px 0;
+	
+}
+
+footer a{
+	color:#ffffff;
+	font-weight: 400; 
+}
+footer p{
+	color:#ffffff;
+
+}
+.social > li{
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.social  i{
+	color: #e5e9eb;
+
+}
+
+
