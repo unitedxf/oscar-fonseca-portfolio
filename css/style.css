@@ -58,7 +58,8 @@ body{
 
 	background-image: url(../images/subtle_dots.png);
 	background-repeat: repeat;
-	
+	border-top: 3px solid #555f66;
+
 }
 
 h1{
@@ -84,6 +85,7 @@ hr{
 	width: 98%;
 	margin: 15px auto;
 	padding: 20px;
+
 }
 .center-container{
 	text-align: center;
@@ -113,7 +115,7 @@ hr{
 }
 
 .links li a:hover {
-	color: #697E86;
+	color: #FD0080;
 	
 }
 .menu .links > li.active a{
@@ -162,8 +164,13 @@ hr{
 	letter-spacing: 0.8px;
 	transition: all 0.5s ease;
 }
+
+.big-button a{
+	text-decoration: none;
+	color: #fff;
+}
 .big-button:hover{
-	background-color: #7e8991;
+	background-color: #FD0080;
 	transition: all 0.9s ease;
 
 }
@@ -186,6 +193,7 @@ hr{
 footer{
 	clear: both;
 	background-color: #505a61;
+
 
 }
 
@@ -213,5 +221,86 @@ footer p{
 	color: #e5e9eb;
 
 }
+.social  i:hover{
+	color: #FD0080;
+
+}
+
+
+/*Porfolio Items*/
+
+.portfolio-items{
+	margin: 50px 0;
+  
+
+}
+
+.box-items{
+ 	width: 33.33333%;
+	float: left;
+	padding: 20px;
+  
+	
+}
+
+.border-image{
+	border: 10px solid #f0f0f0;
+}
+
+.box-items h2.masthead-text{
+
+	margin-bottom: 30px;
+}
+
+
+
+
+/*Porfolio Items*/
+
+
+/* Responsive Css*/
+
+@media only screen and (max-width: 500px) {
+    .masthead-heading {
+        font-size: 3em;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .masthead-text {
+        font-size: 2em;
+    }
+
+ @media only screen and (max-width: 500px) {
+  .masthead-intro {
+        font-size: 1em;
+    }
+
+@media only screen and (max-width: 500px) {
+    .main-title {
+        padding: 55px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .my-quote {
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .footer p {
+        font-size: 0.8750em;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .introduction-section, .location-section, .my-background {
+        width: 100%;
+	    float: none;
+	    padding: 0px 20px 30px 20px;
+    }
+}
+
 
 
