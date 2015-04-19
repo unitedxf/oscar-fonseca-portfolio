@@ -53,6 +53,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+a{
+
+	text-decoration: none !important;
+}
 
 body{
 
@@ -156,7 +160,7 @@ hr{
     border-radius: 4px;
     padding: 14px 36px;
     line-height: 1.33;
-    background-color: #555f66;
+    background-color: #FD0080;
     font-size: 1.000em;
 	color: #fff;
 	font-family: 'Raleway', sans-serif;
@@ -169,11 +173,12 @@ hr{
 }
 
 .big-button a{
-	text-decoration: none;
+	
 	color: #fff;
+
 }
 .big-button:hover{
-	background-color: #FD0080;
+	background-color: #555f66;
 	transition: all 0.9s ease;
 
 }
